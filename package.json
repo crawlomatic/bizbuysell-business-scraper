@@ -1,0 +1,24 @@
+{
+  "name": "bizbuysell-business-scraper",
+  "version": "1.0.0",
+  "description": "Scrape businesses for sale, franchise opportunities, EBITDA, cash flow, gross revenue, and broker contacts across North America.",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "bizbuysell",
+    "business-for-sale",
+    "m-and-a",
+    "private-equity",
+    "broker-leads",
+    "dealmaking",
+    "apify-actor"
+  ],
+  "author": "Crawlomatic (https://crawlomatic.com)",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "apify-client": "^2.9.0"
+  }
+}
